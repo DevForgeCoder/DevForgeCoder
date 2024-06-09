@@ -4,7 +4,7 @@
 
 I specialize in crafting seamless digital experiences using the latest web technologies. My skills include:
 
-- *Frontend:* HTML, CSS, JavaScript, React
+- *Frontend:* HTML, CSS, tailwindcss, JavaScript, React, reactjs
 
 I'm passionate about building innovative web solutions that help businesses grow. I'm always open to collaborating on exciting projects.
 
